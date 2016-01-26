@@ -5,3 +5,4 @@ This is my third line
 Now I think it is really cold out!
 
 Now we are into the github part of workshop - very exciting!
+Decided to try this again.
